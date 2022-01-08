@@ -9,3 +9,17 @@ table, th, td {
     text-align: center;
 
   }
+  img{
+      height: 200pxpx;
+      width:125px;
+  }
+  .one{
+      width: 100px;
+  }
+  .two{
+      width: 200px;
+  }
+  a{
+      font-size: 40px;
+  }
+
